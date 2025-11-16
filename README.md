@@ -1,8 +1,5 @@
 # 🚖 AERAS Rickshaw Management System – Full Project Repository
 
-> **⚠️ Important Notice:**  
-> **Do NOT update or commit any changes after the final submission!**  
-> This repository represents a complete, submitted version of the AERAS Rickshaw Management System project.
 
 ---
 
@@ -13,7 +10,7 @@ This repository contains **all components of the complete system**, including:
 
 - ✓ **User-side microcontroller (ESP32/Arduino) code**  
 - ✓ **Rickshaw-side Web App**  
-- ✓ **Backend server (Node.js / Python / Django / any)**  
+- ✓ **Backend server (Node.js)**  
 - ✓ **Admin dashboard code**  
 - ✓ **README with setup instructions**  
 
@@ -80,8 +77,4 @@ Features:
 - Puller activity statistics  
 - User management  
 - System analytics  
-
----
-
-## 📂 Repository Structure
 
